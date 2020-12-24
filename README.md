@@ -8,5 +8,6 @@ Data-structure for Public Comments
 
 ## Examples
 
-https://www.federalregister.gov/documents/2020/10/08/2020-22278/subsidy-programs-provided-by-countries-exporting-softwood-lumber-and-softwood-lumber-products-to-the
+CVD https://www.federalregister.gov/documents/2020/10/08/2020-22278/subsidy-programs-provided-by-countries-exporting-softwood-lumber-and-softwood-lumber-products-to-the
 
+AD https://www.federalregister.gov/documents/2019/08/23/2019-18144/glycine-from-thailand-scheduling-of-the-final-phase-of-anti-dumping-duty-investigation
